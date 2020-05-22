@@ -1,0 +1,74 @@
+body {
+  background-image: url(../images/bg-desktop.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: hsl(257, 40%, 49%);
+}
+
+h1 {
+  margin-left: 5rem;
+  padding: 6.5rem 2.5rem 0 2rem;
+  font-weight: 700;
+}
+
+p {
+  margin-left: 5rem;
+  padding: 0 2.5rem 0 2rem;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.logo-svg {
+  margin-top: 2rem;
+  margin-left: 3rem;
+}
+
+.container {
+  column-count: 2;
+}
+
+.main-text {
+  color: white;
+  font-family: "Poppins";
+}
+
+.desktop-img {
+  margin-top: 4rem;
+  margin-left: 3rem;
+  width: 10rem;
+}
+
+.btn {
+  margin-left: 7rem;
+  border-radius: 5rem;
+  box-shadow: 1px 2px 4px 1px rgba(0, 0, 0, 0.2);
+  width: 10rem;
+  padding: 0.7rem;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins";
+  color: hsl(257, 40%, 49%);
+}
+
+.icons {
+  color: white;
+  margin-top: 2rem;
+  margin-left: 57rem;
+  padding: 1rem;
+}
+
+.fa-facebook {
+  padding-right: 1rem;
+}
+
+.fa-twitter {
+  padding-right: 1rem;
+}
+
+.attribution {
+  font-family: "Poppins";
+  margin-top: 4rem;
+  text-align: center;
+}
